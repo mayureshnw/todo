@@ -1,0 +1,10 @@
+.Container {
+    width: 60%;
+    margin: auto;
+}
+
+.Input {
+    padding: 10px;
+    color: black;
+    font-size: large;
+}
